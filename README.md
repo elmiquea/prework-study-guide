@@ -1,2 +1,2 @@
 # prework-study-guide
-on the way to success
+Boot Camp Prework Study Guide for Students
