@@ -1,9 +1,4 @@
 
-## License
-
-Please refer to the LICENSE in the repo.
-
-=======
 # Study Guide Webpage
 
 ## Description
